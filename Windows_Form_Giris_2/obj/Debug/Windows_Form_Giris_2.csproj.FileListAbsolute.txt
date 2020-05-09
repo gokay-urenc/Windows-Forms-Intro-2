@@ -1,0 +1,20 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Windows_Form_Giris_2\Windows_Form_Giris_2\bin\Debug\Windows_Form_Giris_2.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Windows_Form_Giris_2\Windows_Form_Giris_2\bin\Debug\Windows_Form_Giris_2.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Windows_Form_Giris_2\Windows_Form_Giris_2\bin\Debug\Windows_Form_Giris_2.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Windows_Form_Giris_2\Windows_Form_Giris_2\bin\Debug\Windows_Form_Giris_2.exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Windows_Form_Giris_2\Windows_Form_Giris_2\bin\Debug\Windows_Form_Giris_2.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Windows_Form_Giris_2\Windows_Form_Giris_2\bin\Debug\Windows_Form_Giris_2.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Windows_Form_Giris_2\Windows_Form_Giris_2\obj\Debug\Windows_Form_Giris_2.pdb
